@@ -49,18 +49,19 @@ is exactly why features are normalized before training on unscaled data.
 Real output of `git log --oneline --graph --all` from my `ai-lab-portfolio` repository:
 
 ```
-* c80529f Chore: ignore __pycache__, drop scratch exercise log
-*   6f5263c Merge branch 'lab01/homework' into main
+* 1191ae9 Lab 01: add report with real git graph
+* d53f722 Chore: ignore __pycache__, drop scratch exercise log
+*   418498f Merge branch 'lab01/homework' into main
 |\  
-| * 912773b Lab 01 Homework: inspect() function, run on Titanic and Iris
+| * bd21cf7 Lab 01 Homework: inspect() function, run on Titanic and Iris
 |/  
-*   7089de8 Merge branch 'lab01/exercises' into main
+*   bf04f7b Merge branch 'lab01/exercises' into main
 |\  
-| * 3ec2655 Lab 01 Exercise 4: practice branch-commit-merge cycle
-| * 72e1d38 Lab 01 Exercise 3: coefficient of variation analysis
-| * 1f7455a Lab 01 Exercise 2: identify Titanic columns with missing values
+| * 208eb10 Lab 01 Exercise 4: practice branch-commit-merge cycle
+| * 3a8a8b9 Lab 01 Exercise 3: coefficient of variation analysis
+| * 1d7347e Lab 01 Exercise 2: identify Titanic columns with missing values
 |/  
-* adf433b Lab 01: environment setup and first notebook
+* 8696dcb Lab 01: environment setup and first notebook
 ```
 
 (Graph taken just before this report was committed.)
