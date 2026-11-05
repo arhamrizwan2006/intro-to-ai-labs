@@ -1,0 +1,9 @@
+{
+  "rows": 889,
+  "train_rows": 711,
+  "test_rows": 178,
+  "test_accuracy": 0.7697,
+  "baseline_accuracy": 0.618,
+  "possible_requests": 72,
+  "pickle_pipeline_agreement": 72
+}
